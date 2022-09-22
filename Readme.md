@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Victoria Kuzheleva](https://up.htmlacademy.ru/htmlcss/35/user/2187525).
-* Наставник: `Неизвестно`.
+* Наставник: `Валерий Крукович`(https://github.com/ValeryKrukovich).
 
 ---
 
